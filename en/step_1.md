@@ -1,6 +1,6 @@
 --- no-print ---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/dodgeball-scratch2).
+This project has been prepared for **Scratch 3**.
 
 --- /no-print ---
 
@@ -54,6 +54,7 @@ title: What you will learn
 + How to use the keyboard to control a sprite
 + How to use the `if, then, else`{:class="block3control"} Scratch block
 + How to clone a sprite
++ Understand the skills which are developed towards a career involving Computing
 
 --- /collapse ---
 
