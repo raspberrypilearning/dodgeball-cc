@@ -1,6 +1,8 @@
 ## What next?
 
-Have a go at our [Brain game](https://projects.raspberrypi.org/en/projects/brain-game?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) project, in which you can create your own maths quiz.
+Have a go at our 'Brain game'project, in which you can create your own maths quiz.
+
+You will find this project in the module pathway.
 
 --- no-print ---
 Click the button to start. Type in the answer to the question, and then press the <kbd>Enter</kbd> key.
