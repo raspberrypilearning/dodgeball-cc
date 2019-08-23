@@ -1,6 +1,6 @@
 ## What next?
 
-Have a go at our 'Brain game'project, in which you can create your own maths quiz.
+Have a go at our 'Brain game' project, in which you can create your own maths quiz.
 
 You will find this project in the module pathway.
 
