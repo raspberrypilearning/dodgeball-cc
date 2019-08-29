@@ -1,14 +1,14 @@
-# dodgeball-cc
+# dodgeball
 
-![dodgeball-cc](banner.png)
+![dodgeball](/en/images/banner.png)
 
-Find the project online at [projects.raspberrypi.org/en/projects/dodgeball-cc](https://projects.raspberrypi.org/en/projects/dodgeball-cc)
+Find the project online at [projects.raspberrypi.org/en/projects/dodgeball](https://projects.raspberrypi.org/en/projects/dodgeball)
 
 ## Resources
-For project materials and solutions, see [en/resources](https://github.com/raspberrypilearning/dodgeball-cc/tree/master/en/resources) and [en/solutions](https://github.com/raspberrypilearning/dodgeball-cc/tree/master/en/solutions).
+For solutions and project materials, see [en/resources](https://github.com/raspberrypilearning/dodgeball/tree/master/en/resources)
 
 ## Contributing
 See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Licence
- See [LICENCE.md](LICENCE.md)
+ See [LICENSE.md](LICENSE.md)
