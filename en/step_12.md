@@ -16,3 +16,5 @@ Click the button to start. Type in the answer to the question, and then press th
 --- print-only ---
 ![Brain Game](images/brain-final.png)
 --- /print-only ---
+
+![progress bar](images/s2-2.png)
