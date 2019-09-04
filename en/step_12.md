@@ -1,4 +1,4 @@
-## What next?
+## What have you learned?
 
 Have a go at our 'Brain game' project, in which you can create your own maths quiz.
 
@@ -16,3 +16,10 @@ Click the button to start. Type in the answer to the question, and then press th
 --- print-only ---
 ![Brain Game](images/brain-final.png)
 --- /print-only ---
+
+![progress bar](images/s2-2.png)
+
+Click on the 'Click me' button to try the next project:
+
+<a href="https://codeclub.org/en/scratch2">
+<img src="images/Clickme.png">
