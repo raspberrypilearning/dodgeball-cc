@@ -10,7 +10,6 @@ version: 4.0.0
 last_tested: 2018-10-10
 steps:
 - title: Introduction
-  completion: engaged
 - title: Character movement
 - title: 'Challenge: completing the level'
   challenge: true
@@ -27,5 +26,4 @@ steps:
   challenge: true
 - title: 'Challenge: more lives'
   challenge: true
-  completion: internal
 - title: What have you learned?
