@@ -79,7 +79,7 @@ Now add code to make your character jump whenever the player presses the <kbd>sp
 ![pico walking sprite](images/pico_walking_sprite.png)
 
 ```blocks3
-	when [space v] key pressed
+	when (space v) key pressed
 	repeat (10)
 		change y by (4)
 	end
