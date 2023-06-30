@@ -108,7 +108,7 @@ Delete the jumping code you added to your character sprite, and add this code in
 ![pico walking sprite](images/pico_walking_sprite.png)
 
 ```blocks3
-	when [space v] key pressed
+	when [space] key pressed
 	set [jump height v] to [8]
 	repeat until < (jump height) = [0] >
 		change y by (jump height)
